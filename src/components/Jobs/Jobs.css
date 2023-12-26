@@ -1,0 +1,9 @@
+.job-img {
+    width: 200px;
+    height: 60px;
+}
+
+.border-job {
+    color: rgba(126, 144, 254, 1);
+    border: 1px solid rgba(126, 144, 254, 1);
+}

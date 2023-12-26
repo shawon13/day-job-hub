@@ -1,0 +1,22 @@
+.job-bg {
+    background-image: url('../../../public/jobbg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlay {
+    background-color: rgba(7, 143, 203, .8) !important;
+}
+
+.black-color {
+    color: #1A1919;
+}
+
+.gray-color {
+    color: #757575;
+}
+
+.job_detalis_bg {
+    background-color: #f4f1ff;
+}

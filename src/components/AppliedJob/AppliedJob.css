@@ -1,0 +1,14 @@
+.applied-bg {
+    background-image: url('../../../public/jobbg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlay {
+    background-color: rgba(7, 143, 203, .8) !important;
+}
+
+.btn-light {
+    background-color: #f4f4f4 !important;
+}

@@ -7,7 +7,7 @@ const Header = () => {
     const routes = [
         { id: 1, name: 'Home', path: '/' },
         { id: 2, name: 'Statistics', path: '/statistics' },
-        { id: 3, name: 'Applied Jobs', path: '/appliedjobs' },
+        { id: 3, name: 'Applied Jobs', path: '/applied' },
         { id: 4, name: 'Blog', path: '/blog' }
     ]
     return (
@@ -16,7 +16,7 @@ const Header = () => {
                 <header className="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3">
                     <div className="col-md-3 mb-2 mb-md-0">
                         <Link to="/" className="d-inline-flex link-body-emphasis text-decoration-none">
-                            <h2>DAYJOBHUB</h2>
+                            <h2 className='text-capitalize'>DayJobHub</h2>
                         </Link>
                     </div>
 

@@ -1,117 +1,154 @@
 [
-     {
-      "id": 1,
-      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-      "job_title": "Technical Database Engineer",
-      "company_name": "Google LLC",
-      "remote_or_onsite": "Remote",
-      "location": "Dhaka, Bangladesh",
-      "job_type": "Full Time",
-      "salary": "100k-150k",
-      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-      "educational_requirements": "Bachelor degree to complete any reputational university.",
-      "experiences": "2-3 Years in this field.",
-      "contact_information": {
-        "phone": "01750-00 00 00",
-        "email": "info@gmail.com",
-        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-      }
-    },
-    {
-        "id": 2,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 3,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 4,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Google LLC",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 5,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Technical Database Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 6,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      }
-  
-  ]
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/MsHjbNh/goole.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "50k-100k",
+    "job_description": " They must implement and maintain computer databases. Database engineers ensure the database is kept available, secure, and stable. They constantly test its data to ensure it is not corrupted and perform regular updates to keep up with ever-changing computer technologies.",
+    "job_responsibility": "Provide database solutions based on technical documents and business requirements. Develop database functions, scripts, stored procedures and triggers to support application development. Provide technical assistance to resolve all database issues related to performance, capacity and access.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "1-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-40 10 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/TPTbS40/netflix.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "20k-50k",
+    "job_description": "Senior digital designers develop an agency's digital design capability by creating inventive concepts that exceed client expectations. In the creative industry, a senior digital designer uses a high level of expertise to deliver and encourage stunning digital concepts to meet client briefs and expectations.",
+    "job_responsibility": "You work with other product designers and user experience professionals to design prototypes of the product for testing before presenting the completed work. As a senior designer, your duties may also include training new employees and maintaining open communication with other departments during the design process.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/ZhQSzzD/tesla.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "80k-150k",
+    "job_description": "What is the job description of software developer? What Does a Software Developer Do | DeVry University The job duties of a software developer typically include tasks such as overseeing software programming, testing software at various phases of completion, laying out software design, building models or diagrams to communicate the end goal and mapping out future software upgrades.",
+    "job_responsibility": "research, design and write new software programs (e.g. business applications or computer games) and computer operating systems. evaluate the software and systems that make computers and hardware work. develop existing programs by analysing and identifying areas for modification.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "2 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 20 10",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/pZwH5fF/microsoft.png",
+    "job_title": "Software Engineer",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "50k-150k",
+    "job_description": "What is the job description of software developer? What Does a Software Developer Do | DeVry University The job duties of a software developer typically include tasks such as overseeing software programming, testing software at various phases of completion, laying out software design, building models or diagrams to communicate the end goal and mapping out future software upgrades.",
+    "job_responsibility": "research, design and write new software programs (e.g. business applications or computer games) and computer operating systems. evaluate the software and systems that make computers and hardware work. develop existing programs by analysing and identifying areas for modification.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/BN1JKWR/Facebook.png",
+    "job_title": "Database Engineer",
+    "company_name": "Facebook",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "50k-100k",
+    "job_description": "Database engineers design and maintain databases, increase data storage capacity, and troubleshoot database functionality issues. They also review database.You will be enhancing our data storage capacity, writing new support programs and scripts, and troubleshooting database code. To ensure success as a database",
+    "job_responsibility": "They must implement and maintain computer databases. Database engineers ensure the database is kept available, secure, and stable. They constantly test its data to ensure it is not corrupted and perform regular updates to keep up with ever-changing computer technologies.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/C0Hwdmw/twitter.png",
+    "job_title": "Junior Product Designer",
+    "company_name": "Twitter",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "20k-50k",
+    "job_description": "A Junior Designer is a creative professional who works under the guidance of a Senior Designer to create engaging designs and solutions for various projects. They bring ideas to life by producing drafts, prototypes, and final design solutions.",
+    "job_responsibility": "They are ultimately responsible for discovering and defining a problem, and then empathically designing a solution. The skills that a product designer must have range from technical to human-centered design. Product designers take part in user research, prototyping, visualization, testing, analyzing, and communicating.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "logo": "https://i.ibb.co/3sNHHgL/png-transparent-badda-thana-walton-group-walton-motors-kaliakair-upazila-job-walton-group-blue-text.png",
+    "job_title": "3d artist IT product",
+    "company_name": "Walton",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "15k-50k",
+    "job_description": "Utilize 3D texture, modeling, mapping, and other methods to craft visual effects, graphics, and animations. Assess 3D arts and make suggestions. Meet with designers, clients, and management to discuss and review projects and deadlines. Collect feedback from directors, designers, animators, and clients.",
+    "job_responsibility": "A 3D designer, sometimes known as a 3D artist, designs and creates three-dimensional models based on client specifications. This type of work involves developing new 3D products, improving old designs and working with the latest computer-aided design.",
+    "educational_requirements": "Bachelor degree to complete any reputational university.",
+    "experiences": "1 Year in this field.",
+    "contact_information": {
+      "phone": "01750-80 00 30",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "logo": "https://i.ibb.co/R7wzM45/Biman.png",
+    "job_title": "Biman Call Center",
+    "company_name": "Biman Bangladesh Airlines",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "50k-80k",
+    "job_description": "During his visit to Dhaka in September 2023, French President Emmanuel Macron, together with Bangladesh Prime Minister Sheikh Hasina, announced a large order of ten Airbus A350 aircraft for Biman.",
+    "job_responsibility": "Created in February 1972, Biman enjoyed an internal monopoly in the aviation industry of Bangladesh for 24 years, until 1996.[8] In the decades following its founding, the airline expanded its fleet and destinations but it was adversely affected by corruption and mismanagement.",
+    "educational_requirements": "Class Eight pass, SSC pass, HSC pass",
+    "experiences": "No Experiences",
+    "contact_information": {
+      "phone": "01750-23 80 90",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  }
+]
